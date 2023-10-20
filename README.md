@@ -1,6 +1,3 @@
-![](./ufymlcpq.png){width="5.386666666666667in"
-height="2.7199989063867016in"}
-
 > ARTIFICIAL VISION
 >
 > **2020/2021**
